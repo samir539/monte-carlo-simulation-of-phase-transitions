@@ -1,0 +1,4 @@
+# monte-carlo-simulation-of-phase-transitions
+A modelling project using Monte Carlo methods to model the behavior of a phase transition and make conclusions about the underlying thermodynamics.
+
+The aim of the project was to write a program which simulated the behaviour of metal alloys using the metropolis monte-Carlo swapping algorithm. The behaviour of the alloys was simulated taking into account a range of different temperatures, compositions and interaction energies. From this, the project set out to explain why alloys prefer to be random at high temperatures and more ordered at lower temperatures. The results of the simulation would then quantitively describe the behaviour of alloys allowing for a cohesive, convincing explanation to be formulated explaining the behaviour of a range of alloys at a range of temperatures.
